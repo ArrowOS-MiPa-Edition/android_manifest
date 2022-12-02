@@ -22,6 +22,10 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.0" />
 
+  <remote  name="arrow-mipa"
+           fetch="https://github.com/ArrowOS-MiPa-Edition"
+           revision="refs/heads/arrow-13.0" />
+
   <remote  name="arrow-12.1"
            fetch="https://github.com/ArrowOS"
            review="https://review.arrowos.net/"
