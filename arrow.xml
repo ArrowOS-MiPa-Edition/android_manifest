@@ -117,7 +117,6 @@
   <project path="hardware/ril" name="android_hardware_ril" groups="pdk" remote="arrow" />
 
   <!-- packages repos -->
-  <project path="packages/apps/Aperture" name="android_packages_apps_Aperture" remote="arrow-mipa" />
   <project path="packages/apps/ArrowPrebuilts" name="android_packages_apps_ArrowPrebuilts" remote="arrow" clone-depth="1" />
   <project path="packages/apps/Camera2" name="android_packages_apps_Camera2" remote="arrow" />
   <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="arrow" />
