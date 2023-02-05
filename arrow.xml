@@ -49,7 +49,7 @@
   <!-- framework repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="arrow-mipa" />
   <project path="frameworks/base" name="android_frameworks_base" remote="arrow-mipa" />
-  <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="arrow" />
+  <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="arrow-mipa" />
   <project path="frameworks/native" name="android_frameworks_native" remote="arrow-mipa" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="arrow-mipa" />
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="arrow" />
@@ -134,7 +134,7 @@
   <project path="packages/apps/Seedvault" name="android_packages_apps_Seedvault" remote="arrow" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="arrow-mipa" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="arrow" />
-  <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="arrow" />
+  <project path="packages/apps/ThemePicker" name="android_packages_apps_ThemePicker" remote="arrow-mipa" />
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="arrow-mipa" />
   <project path="packages/apps/SimpleDeviceConfig" name="android_packages_apps_SimpleDeviceConfig" remote="arrow" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="arrow" />
