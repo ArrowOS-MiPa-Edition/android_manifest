@@ -20,7 +20,7 @@
   <project path="manifest" name="android_manifest" remote="arrow-mipa" />
 
   <!-- bootable repos -->
-  <project path="bootable/recovery" name="android_bootable_recovery" remote="arrow" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="arrow-mipa" />
 
   <!-- device repos -->
   <project path="device/arrow/sepolicy" name="android_device_arrow_sepolicy" remote="arrow" />
