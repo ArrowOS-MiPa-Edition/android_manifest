@@ -143,7 +143,7 @@
     <linkfile src="os_pickup.mk" dest="hardware/qcom/sm8150/Android.mk" />
     <linkfile src="os_pickup.bp" dest="hardware/qcom/sm8150/Android.bp" />
   </project>
-  <project path="hardware/qcom/sm8150/display" name="android_hardware_qcom_sm8150_display" groups="generic_fs,qcom_sm8150" remote="arrow" />
+  <project path="hardware/qcom/sm8150/display" name="android_hardware_qcom_sm8150_display" groups="generic_fs,qcom_sm8150" remote="lineage" />
   <project path="hardware/qcom/sm8150/media" name="android_hardware_qcom_sm8150_media" groups="generic_fs,qcom_sm8150" remote="arrow" />
   <project path="hardware/qcom/wlan" name="android_hardware_qcom_wlan" groups="qcom_wlan,pdk-qcom" remote="arrow" />
   <project path="hardware/arrow/compat" name="android_hardware_arrow_compat" remote="arrow" />
