@@ -81,6 +81,7 @@
   <project path="external/selinux" name="android_external_selinux" remote="arrow" />
   <project path="external/tinycompress" name="android_external_tinycompress" remote="arrow" />
   <project path="external/tinyxml" name="android_external_tinyxml" remote="arrow" />
+  <project path="external/webp" name="android_external_webp" remote="arrow-mipa" />
 
   <!-- framework repos -->
   <project path="frameworks/av" name="android_frameworks_av" remote="arrow-mipa" />
@@ -181,12 +182,14 @@
   <project path="packages/modules/Bluetooth" name="android_packages_modules_Bluetooth" remote="arrow-mipa" />
   <project path="packages/modules/Bluetooth/android/BtHelper" name="android_packages_modules_Bluetooth_android_BtHelper" remote="arrow"/>
   <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" remote="arrow" />
+  <project path="packages/modules/DnsResolver" name="android_packages_modules_DnsResolver" remote="arrow-mipa" />
   <project path="packages/modules/Permission" name="android_packages_modules_Permission" remote="arrow" />
+  <project path="packages/modules/StatsD" name="android_packages_modules_StatsD" remote="arrow-mipa" />
   <project path="packages/modules/Wifi" name="android_packages_modules_Wifi" remote="arrow-mipa" />
   <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="arrow" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="arrow" />
   <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="arrow-mipa" />
-  <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="arrow" />
+  <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="arrow-mipa" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="arrow" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="arrow-mipa" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="arrow" />
@@ -198,6 +201,7 @@
   <project path="prebuilts/tools-extras" name="android_prebuilts_tools-extras" remote="arrow" />
 
   <!-- system repos -->
+  <project path="system/ca-certificates" name="android_system_ca-certificates" remote="arrow-mipa" />
   <project path="system/core" name="android_system_core" remote="arrow-mipa" />
   <project path="system/extras" name="android_system_extras" remote="arrow" />
   <project path="system/libhwbinder" name="android_system_libhwbinder" remote="arrow" />
