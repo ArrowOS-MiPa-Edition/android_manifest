@@ -3,6 +3,7 @@
 
   <remove-project name="platform/art" />
   <remove-project name="platform/bionic" />
+  <remove-project name="platform/cts" />
 
   <!-- bootable -->
   <remove-project name="platform/bootable/recovery" />
@@ -60,6 +61,7 @@
   <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/mksh" />
+  <remove-project name="platform/external/pdfium" />
   <remove-project name="platform/external/selinux" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/webp" />
@@ -122,6 +124,7 @@
   <remove-project name="platform/system/libziparchive" />
   <remove-project name="platform/system/logging" />
   <remove-project name="platform/system/media" />
+  <remove-project name="platform/system/netd" />
   <remove-project name="platform/system/tools/mkbootimg" />
   <remove-project name="platform/system/security" />
   <remove-project name="platform/system/sepolicy" />
