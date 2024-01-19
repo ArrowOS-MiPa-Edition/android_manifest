@@ -170,7 +170,7 @@
   <!--project path="packages/apps/FMRadio" name="android_packages_apps_FMRadio" remote="arrow" /-->
   <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="arrow" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="arrow-mipa" />
-  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="arrow" />
+  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="arrow-mipa" />
   <project path="packages/apps/ParallelSpace" name="android_packages_apps_ParallelSpace" remote="arrow" />
   <project path="packages/apps/Seedvault" name="android_packages_apps_Seedvault" remote="arrow" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="arrow-mipa" />
@@ -185,6 +185,7 @@
   <project path="packages/modules/Bluetooth/android/BtHelper" name="android_packages_modules_Bluetooth_android_BtHelper" remote="arrow"/>
   <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" remote="arrow" />
   <project path="packages/modules/DnsResolver" name="android_packages_modules_DnsResolver" remote="arrow-mipa" />
+  <project path="packages/modules/NeuralNetworks" name="android_packages_modules_NeuralNetworks" remote="arrow-mipa" />
   <project path="packages/modules/Permission" name="android_packages_modules_Permission" remote="arrow" />
   <project path="packages/modules/StatsD" name="android_packages_modules_StatsD" remote="arrow-mipa" />
   <project path="packages/modules/Wifi" name="android_packages_modules_Wifi" remote="arrow-mipa" />
